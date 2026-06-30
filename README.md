@@ -16,7 +16,8 @@ This lab builds hands-on proficiency with **Wireshark** — the industry-standar
 The mental model you build here transfers directly to cloud-native tools: **Azure Network Watcher**, **AWS VPC Flow Logs**, and **GCP Packet Mirroring** all surface the same underlying concepts — source, destination, protocol, port, and payload.
 
 ---
-
+## 🎬 Watch Me Build This Lab!
+https://www.loom.com/share/cacc9a9f549d4e118857be49c2d3fd7d
 ## Architecture — How Wireshark Captures Traffic
 
 ```
